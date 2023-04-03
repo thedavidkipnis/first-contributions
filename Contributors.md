@@ -3914,6 +3914,7 @@ Ayan Das
 - [Fábián Varga](https://github.com/br0kenpixel)
 - Shaviz Soudagar
 - [Abisa Osei-Amankwah] (https://github.com/AOSEI1001)
+- [David Kipnis] (https://github.com/thedavidkipnis)
 - [Irfan Thomson](https://github.com/IrfanThomson)
 - [Adam Vickerman](https://github.com/Messier46)
 - [Jayesh Karande](https://github.com/JayeshKarande1)
